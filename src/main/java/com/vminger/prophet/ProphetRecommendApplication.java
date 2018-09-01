@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ProphetRecommendApplication {
 
 	public static void main(String[] args) {
+	  // TODO
 		SpringApplication.run(ProphetRecommendApplication.class, args);
 	}
 }
